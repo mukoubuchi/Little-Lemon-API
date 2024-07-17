@@ -1,0 +1,24 @@
+Super user
+    username: admin
+    password: admin@1234
+
+Managers
+    username: manager1
+    password: abcd@1234
+
+    username: manager2
+    password: abcd@1234
+
+Delivery crew
+    username: delivery1
+    password: abcd@1234
+
+    username: delivery2
+    password: abcd@1234
+
+Customer
+    username: customer1
+    password: abcd@1234
+
+LOGIN is via username and password only
+And API Authorization format is `Token <token>`
